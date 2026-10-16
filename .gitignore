@@ -1,0 +1,20 @@
+ePlayer/FFmpeg_include
+ePlayer/FFmpeg_lib
+ePlayer/x64/Debug/ePlayer.exe
+ePlayer/x64/Debug/ePlayer.pdb
+
+# Visual Studio 快取與設定
+.vs/
+*.ipch
+
+# 編譯輸出目錄與符號檔
+x64/
+x86/
+Debug/
+Release/
+*.pdb
+*.ilk
+*.obj
+*.tlog
+*.log
+*.exe
